@@ -33,7 +33,7 @@ func getActions() []string {
 
 func getAnimals() []string {
 	animals := make([]string, 0)
-	animals = append(animals, "cow", "snamke", "bird")
+	animals = append(animals, "cow", "snake", "bird")
 	return animals
 }
 
